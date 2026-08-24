@@ -1,1 +1,2 @@
 Welcome To file "Check Configration"
+You Must Choose True Conditions To Pass

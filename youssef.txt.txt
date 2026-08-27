@@ -1,1 +1,2 @@
 Hello From GitHub Contributor
+"I Love Git&GitHub Because Git&GitHub Is Easy"

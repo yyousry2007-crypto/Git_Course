@@ -1,1 +1,3 @@
 "." 
+Comparison Between git restore --staged <File name>\ git reset head <File Name>
+consider The same Import
